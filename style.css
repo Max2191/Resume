@@ -1,0 +1,21 @@
+html {
+background-color: rgb(26, 26, 29);
+}
+
+
+.Title {
+color: white;
+
+}
+
+.Title:hover {
+	color: red;
+}
+
+.bg {
+color: white;
+}
+
+.bg:hover {
+color: yellow;
+}
